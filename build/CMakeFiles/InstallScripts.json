@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/In-Memory Redis-like Key Value Database/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
